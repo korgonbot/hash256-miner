@@ -1,0 +1,11 @@
+# Fleet OS — NEVER commit these
+.env
+wallets.json
+proxies.json
+state/
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
